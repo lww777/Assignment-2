@@ -1,4 +1,4 @@
-## Here are 2 functions that make cashed inverse of a given matrix
+## Here are 2 functions that make cached inverse of a given matrix
 
 ## This function creates a list with
 ## functions to set, get the value of a matrix
